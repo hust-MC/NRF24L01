@@ -5,4 +5,6 @@
 
 代码包括通信双方的代码，其中只有框架结构，业务信息按照自己需求添加即可。
 
-如有什么疑问，可以访问资源相关博客地址：http://www.jianshu.com/p/a40dd823a907
+如有什么疑问，可以访问资源相关文章地址：
+CSDN：http://blog.csdn.net/mc_hust/article/details/39473913
+简书：http://www.jianshu.com/p/a40dd823a907
